@@ -1,0 +1,1 @@
+const weatherKey = "16867340404d3e74af4e4ef85cf2e753";
