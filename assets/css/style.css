@@ -1,1 +1,4 @@
 /* God I hate CSS */
+li {
+    list-style-type: none;
+}
